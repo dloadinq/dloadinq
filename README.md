@@ -1,9 +1,9 @@
-<div align="center" style="margin-bottom: 30px">
+<div align="center">
     <img src="https://github.com/dloadinq/dloadinq/blob/main/helloThereObiWan.gif" alt="Obi-Wan saying "Hello There"">
-    <br>
 </div>
 
 <div align="center">
+    <br>
     <p> I'm Daniel, an upcoming junior developer from Austria. </p>
     <p> Currently attending the Higher Technical College in Krems and just <strong><em>one</em></strong> more year left. </p>
     <br>
