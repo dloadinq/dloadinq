@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="margin-bottom: 30px">
     <img src="https://github.com/dloadinq/dloadinq/blob/main/helloThereObiWan.gif" alt="Obi-Wan saying "Hello There"">
     <br>
 </div>
